@@ -16,7 +16,7 @@ Features
 
 Those were my primary goals while writing this thing, but some of my other priorities soaked through too:
 
-- "Edit" button on every page so that people can fix my spelling mistakes for me (via pull requests on Github!)
+- "Edit" button on every page so that people can fix my spelling mistakes for me (via pull requests on GitHub!)
 - [MediaWiki-style internal links](https://www.mediawiki.org/wiki/Help:Links#Internal_links)
 - [MediaWiki-style templates](https://www.mediawiki.org/wiki/Help:Templates), with parameters
 
@@ -29,7 +29,7 @@ I wrote some seperate [[services.md|services]] to solve those issues.  They are 
 
 Indeed, I mean for my hosted versions to be publicly accessible for anyone running a Noddity site to share, so that they don't have to worry about hosting them.  I may have to work something else out if it starts to get crazy expensive, but that doesn't seem to be an immediate threat.
 
-In the worst case, you can always deploy your own versions - the code is on Github and is easily deployable with [ploy](https://github.com/substack/ploy).  [[services.md|Check out the services page]] for more details.
+In the worst case, you can always deploy your own versions - the code is on GitHub and is easily deployable with [ploy](https://github.com/substack/ploy).  [[services.md|Check out the services page]] for more details.
 
 Other options for search-engine spiderability
 ---------
@@ -45,12 +45,12 @@ Well, it's for me, obviously.  I'm planning on using it for all my personal site
 
 Buuuuut I figured there might be other people who would be interested in those same features that I wanted, so here we are.
 
-Even if it doesn't make sense for your own blog, if you want a light-weight wiki where people make contributions via something like Github as pull requests or merges (no more worrying about spam, or MediaWiki user privileges!) you may want to try it out.
+Even if it doesn't make sense for your own blog, if you want a light-weight wiki where people make contributions via something like GitHub as pull requests or merges (no more worrying about spam, or MediaWiki user privileges!) you may want to try it out.
 
 Tell me what you think!
 =========
 
-[Hit me up on Twitter](https://twitter.com/TehShrike) or <a href="mailto:me@JoshDuff.com">send me an email</a>!  The Github repository is [right over here](https://github.com/TehShrike/noddity) and would love for strangers to touch it.
+[Hit me up on Twitter](https://twitter.com/TehShrike) or <a href="mailto:me@JoshDuff.com">send me an email</a>!  The GitHub repository is [right over here](https://github.com/TehShrike/noddity) and would love for strangers to touch it.
 
 Thanks
 ======
